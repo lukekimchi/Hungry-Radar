@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HungryRadar</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="default_username">Default Username</string>
+    <string name="logo_description">logo image of restaurant</string>
+</resources>
